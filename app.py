@@ -88,8 +88,8 @@ if submitted:
         "Employers seek hybrid profiles: strong SAP expertise plus business/tech skills."
     )
 
-    # Gemini API key (for now, hardcoded as per your instruction)
-    api_key = "AIzaSyAGWwNO7EuOHVx5YraWEPaPSgfCMD-qvD8"
+    # Gemini API key 
+    api_key = st.secrets["GEMINI_API_KEY"]
 
     # Build prompt and call Gemini
     with st.spinner('Generating your personalized career roadmap...'):
