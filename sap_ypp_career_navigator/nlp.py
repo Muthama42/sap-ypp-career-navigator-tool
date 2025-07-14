@@ -1,10 +1,9 @@
 import nltk
+nltk.download('punkt')
+nltk.download('stopwords')
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import string
-
-nltk.download('punkt', quiet=True)
-nltk.download('stopwords', quiet=True)
 
 def extract_keywords(text):
     stop_words = set(stopwords.words('english'))
