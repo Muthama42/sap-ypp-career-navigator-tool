@@ -1,0 +1,100 @@
+Certification_Code,Certification_Name,Certification_Level,Primary_Product_Area,Version_Notes,Status_Insight
+C_ACT_2403,SAP Certified Associate - SAP Activate Project Manager,Associate,Project Management,2403 (Mar 2024),Current
+C_ACTIVATE13,SAP Certified Associate - SAP Activate Project Manager,Associate,Project Management,13,Current
+C_ACTIVATE22,SAP Certified Associate - SAP Activate Project Manager,Associate,Project Management,22,Current
+C_ARCIG_2208,SAP Certified Application Associate - SAP Ariba Integration with Cloud Integration Gateway,Associate,Ariba,2208 (Aug 2022),Current
+C_ARCON_2208,SAP Certified Application Associate - SAP Ariba Contracts,Associate,Ariba,2208 (Aug 2022),Current
+C_ARP2P_2208,SAP Certified Application Associate - SAP Ariba Procurement,Associate,Ariba,2208 (Aug 2022),Current
+C_ARSCC_2208,SAP Certified Application Associate - SAP Ariba Supply Chain Collaboration,Associate,Ariba,2208 (Aug 2022),Current
+C_ARSOR_2208,SAP Certified Application Associate - SAP Ariba Sourcing,Associate,Ariba,2208 (Aug 2022),Current
+C_ARSUM_2208,SAP Certified Application Associate - SAP Ariba Supplier Management,Associate,Ariba,2208 (Aug 2022),Current
+C_BOBIP_40,SAP Certified Application Associate – SAP BusinessObjects Business Intelligence Platform 4.0,Associate,Business Intelligence,4,Legacy
+C_BOBIP_42,SAP Certified Application Associate - SAP BusinessObjects Business Intelligence Platform 4.2,Associate,Business Intelligence,4.2,Current
+C_BOBIP_43,SAP Certified Application Associate - SAP BusinessObjects Business Intelligence Platform 4.3,Associate,Business Intelligence,4.3,Current
+C_BOWI_40,SAP Certified Application Associate – SAP BusinessObjects Web Intelligence 4.0,Associate,Business Intelligence,4,Legacy
+C_BOWI_42,SAP Certified Application Associate - SAP BusinessObjects Web Intelligence 4.2,Associate,Business Intelligence,4.2,Current
+C_BOWI_4302,SAP Certified Application Associate - SAP BusinessObjects Web Intelligence 4.3,Associate,Business Intelligence,4.3,Current
+C_BRSOM_2020,SAP Certified Application Associate - SAP Billing and Revenue Innovation Mgmt. - Subscription Order Management,Associate,BRIM,2020,Current
+C_BRU2C_2020,SAP Certified Application Associate - SAP Billing and Revenue Innovation Management - Usage to Cash,Associate,BRIM,2020,Current
+C_BW4H_211,"SAP Certified Application Associate - Reporting, Modeling and Data Acquisition with SAP BW/4HANA",Associate,Data & Analytics,BW/4HANA 2021,Current
+C_BYD01_1811,SAP Certified Application Associate - SAP Business ByDesign,Associate,Business ByDesign,1811 (Nov 2018),Current
+C_BYD15_1908,SAP Certified Application Associate - SAP Business ByDesign Implementation Consultant,Associate,Business ByDesign,1908 (Aug 2019),Current
+C_C4H225_12,SAP Certified Technology Associate - SAP Emarsys Customer Engagement Implementation,Associate,Customer Experience,12,Current
+C_C4H320_24,SAP Certified Application Associate - SAP Commerce Cloud Business User,Associate,Customer Experience,24,Current
+C_C4H410_21,SAP Certified Application Associate – SAP Sales Cloud 2111,Associate,Customer Experience,2111,Current
+C_C4H450_21,SAP Certified Integration Associate – SAP Sales and Service Cloud,Associate,Customer Experience,2111,Current
+C_C4H460_21,SAP Certified Development Associate – SAP Cloud for Customer 2111,Associate,Customer Experience,2111,Current
+C_C4H510_21,SAP Certified Application Associate – SAP Service Cloud 2111,Associate,Customer Experience,2111,Current
+C_C4H520_02,SAP Certified Application Associate - SAP Field Service Management 2005,Associate,Customer Experience,2005,Current
+C_C4H620_24,SAP Certified Development Associate - SAP Customer Data Cloud,Associate,Customer Experience,24,Current
+C_C4H630_21,SAP Certified Development Associate - SAP Customer Data Platform,Associate,Customer Experience,21,Current
+C_C4HCX_24,SAP Certified Application Associate – Solution Architect for Customer Experience,Associate,Customer Experience,24,Current
+C_CPI_14,SAP Certified Development Associate - SAP Integration Suite,Associate,BTP Integration,14,Current
+C_CPI_2404,SAP Certified Associate - Integration Developer,Associate,BTP Integration,2404 (Apr 2024),Current
+C_DBADM_2404,SAP Certified Associate - Database Administrator - SAP HANA,Associate,HANA,2404 (Apr 2024),Current
+C_DS_42,SAP Certified Application Associate - Data Integration with SAP Data Services 4.2,Associate,Data & Analytics,4.2,Current
+C_EPMBPC_11,SAP Certified Application Associate - SAP Business Planning and Consolidation 10.1 and 11.0,Associate,Financials,11,Current
+C_EPMFC_10,SAP Certified Application Associate - SAP BusinessObjects Financial Consolidation 10.0,Associate,Financials,10,Legacy
+C_FIOAD_2021,SAP Certified Associate - SAP Fiori System Administration,Associate,Technology (Fiori),2021,Current
+C_FIORDEV_22,SAP Certified Development Associate - SAP Fiori Application Developer,Associate,Technology (Fiori),22,Current
+C_FSUTIL_60,SAP Certified Associate - Utilities with SAP ERP 6.0,Associate,ERP/ECC (Industry),6,Legacy
+C_GRCAC_10,SAP Certified Associate - Access Control with SBO GRC 10.0,Associate,Security & GRC,10,Legacy
+C_GRCAC_13,SAP Certified Application Associate – SAP Access Control 12.0,Associate,Security & GRC,12,Current
+C_HAMOD_2404,SAP Certified Associate - Data Engineer - SAP HANA,Associate,HANA,2404 (Apr 2024),Current
+C_HANADEV_17,SAP Certified Development Associate - SAP HANA 2.0 SPS05,Associate,HANA,2.0 SPS05,Current
+C_HANADEV_18,SAP Certified Development Associate - SAP HANA 2.0 SPS06,Associate,HANA,2.0 SPS06,Current
+C_HANAIMP_17,SAP Certified Application Associate - SAP HANA 2.0 (SPS05),Associate,HANA,2.0 SPS05,Current
+C_HANAIMP_18,SAP Certified Application Associate - SAP HANA 2.0 SPS06,Associate,HANA,2.0 SPS06,Current
+C_HANATEC_17,SAP Certified Technology Associate - SAP HANA 2.0 SPS05,Associate,HANA,2.0 SPS05,Current
+C_HANATEC_18,SAP Certified Technology Associate - SAP HANA 2.0 SPS06,Associate,HANA,2.0 SPS06,Current
+C_HCADM_02,SAP Certified Technology Associate - SAP HANA Cloud Provisioning and Administration,Associate,HANA,Cloud,Current
+C_HCMP_2311,SAP Certified Associate - SAP HCM Payroll for SAP S/4HANA,Associate,S/4HANA HCM,2311 (Nov 2023),Current
+C_ISR_60,SAP Certified Application Associate - Retail with SAP ERP 6.0,Associate,ERP/ECC (Industry),6,Legacy
+C_MDG_1909,SAP Certified Associate - SAP Master Data Governance,Associate,Master Data Governance,1909,Current
+C_S4CFI_2202,SAP Certified Application Associate - SAP S/4HANA Cloud (public) - Finance Implementation,Associate,S/4HANA Cloud,2202 (Feb 2022),Current
+C_S4CFI_2208,SAP Certified Application Associate: SAP S/4HANA Cloud (public) – Finance Implementation,Associate,S/4HANA Cloud,2208 (Aug 2022),Current
+C_S4CPR_2408,"SAP Certified Associate - Implementation Consultant - SAP S/4HANA Cloud Public Edition, Sourcing and Procurement",Associate,S/4HANA Cloud,2408 (Aug 2024),Current
+C_S4CS_2408,"SAP Certified Associate - Implementation Consultant - SAP S/4HANA Cloud Public Edition, Sales",Associate,S/4HANA Cloud,2408 (Aug 2024),Current
+C_S4EWM_2020,SAP Certified Associate - Extended Warehouse Management with SAP S/4HANA,Associate,S/4HANA Supply Chain,2020,Current
+C_S4EWM_2023,SAP Certified Associate - Extended Warehouse Management in SAP S/4HANA,Associate,S/4HANA Supply Chain,2023,Current
+C_S4FCC_2021,SAP Certified Application Associate – SAP S/4HANA Finance for Group Reporting Associates,Associate,S/4HANA Finance,2021,Current
+C_S4FCF_2021,SAP Certified Application Associate – Central Finance in SAP S/4HANA,Associate,S/4HANA Finance,2021,Current
+C_S4FTR_2021,SAP Certified Application Associate – Treasury with SAP S/4HANA,Associate,S/4HANA Finance,2021,Current
+C_S4FTR_2023,"SAP Certified Associate - SAP S/4HANA Cloud Private Edition, Treasury",Associate,S/4HANA Finance,2023,Current
+C_S4PPM_2021,SAP Certified Associate - SAP S/4HANA Portfolio and Project Management,Associate,S/4HANA Project Mgmt,2021,Current
+C_S4TM_2020,SAP Certified Associate - Transportation Management in SAP S/4HANA,Associate,S/4HANA Supply Chain,2020,Current
+C_SAC_2221,SAP Certified Application Associate - SAP Analytics Cloud,Associate,Data & Analytics,2221,Current
+C_SECAUTH_20,SAP Certified Technology Associate - SAP System Security and Authorizations,Associate,Security & GRC,20,Current
+C_TADM_23,SAP Certified Technology Consultant - SAP S/4HANA System Administration,Associate,S/4HANA Administration,23,Current
+C_TAW12_70,SAP Certified Development Associate - ABAP with SAP NetWeaver 7.0,Associate,Technology (ABAP),7,Legacy
+C_TAW12_750,SAP Certified Development Associate - ABAP with SAP NetWeaver 7.50,Associate,Technology (ABAP),7.5,Legacy
+C_TBW45_70,SAP Certified Application Associate- Business Intelligence with SAP NetWeaver 7.0,Associate,Business Intelligence,7,Legacy
+C_TERP10_65,SAP Certified Associate Business Process Integration with SAP ERP 6.0,Associate,ERP/ECC,6,Legacy
+C_TFIN52_67,SAP Certified Application Associate - Financial Accounting with SAP ERP 6.0 EhP7,Associate,ERP/ECC,6.0 EhP7,Legacy
+C_THR12_67,SAP Certified Application Associate - SAP HCM with ERP 6.0 EHP7,Associate,ERP/ECC,6.0 EhP7,Legacy
+C_THR81_2205,SAP Certified Application Associate - SAP SuccessFactors Employee Central Core 1H/2022,Associate,SuccessFactors,1H/2022,Current
+C_TPLM30_67,SAP Certified Application Associate - SAP Maintenance & Repair with ERP 6.0 EHP7,Associate,ERP/ECC,6.0 EhP7,Legacy
+C_TS410_2022,SAP Certified Application Associate - Business Process Integration with SAP S/4HANA,Associate,S/4HANA Cross-Functional,2022,Current
+C_TS411_2021,SAP Certified Application Associate – SAP S/4HANA R&D Engineering,Associate,S/4HANA R&D,2021,Current
+C_TS412_2021,SAP Certified Application Associate – SAP S/4HANA Project Systems,Associate,S/4HANA Project Mgmt,2021,Current
+C_TS413_2021,SAP Certified Application Associate - SAP S/4HANA Asset Management,Associate,S/4HANA Asset Mgmt,2021,Current
+C_TS422_2023,"SAP Certified Associate - SAP S/4HANA Cloud Private Edition, Production Planning and Manufacturing",Associate,S/4HANA Supply Chain,2023,Current
+C_TS450_2020,SAP Certified Application Associate - SAP S/4HANA Sourcing and Procurement - Upskilling for ERP Experts,Associate,S/4HANA Sourcing & Proc.,2020,Upskilling
+C_TS452_2022,SAP Certified Associate - SAP S/4HANA Sourcing and Procurement,Associate,S/4HANA Sourcing & Proc.,2022,Current
+C_TS460_2021,SAP Certified Application Associate – SAP S/4HANA Sales 2021 Upskilling,Associate,S/4HANA Sales,2021,Upskilling
+C_TS462_2022,SAP Certified Application Associate - SAP S/4HANA Sales 2022,Associate,S/4HANA Sales,2022,Current
+C_TS4CO_2023,SAP Certified Associate - SAP S/4HANA for Management Accounting Associates,Associate,S/4HANA Finance,2023,Current
+C_TS4FI_2023,"SAP Certified Associate - SAP S/4HANA Cloud Private Edition, Financial Accounting",Associate,S/4HANA Finance,2023,Current
+C_TSCM52_67,SAP Certified Application Associate - Procurement with SAP ERP 6.0 EhP7,Associate,ERP/ECC,6.0 EhP7,Legacy
+C_TSCM62_67,"SAP Certified Application Associate – Sales and Distribution, ERP 6.0 EhP7",Associate,ERP/ECC,6.0 EhP7,Legacy
+E_ACTCLD_21,SAP Certified Specialist - SAP Activate for Cloud Solutions Project Manager,Specialist,Project Management,21,Current
+E_BW4HANA211,SAP Certified Application Specialist – SAP BW/4HANA 2021 Delta,Specialist,Data & Analytics,2021,Delta
+E_HANAAW_17,SAP Certified Development Specialist - ABAP for SAP HANA 2.0,Specialist,Technology (ABAP),2,Current
+E_S4CPE_2023,"SAP Certified Specialist - SAP S/4HANA Cloud, private edition implementation with SAP Activate",Specialist,S/4HANA Cloud,2023,Current
+E_S4HCON2023,SAP Certified Specialist - SAP S/4HANA Conversion and SAP System Upgrade,Specialist,S/4HANA Administration,2023,Current
+P_ABAP_70,SAP Certified Development Professional - ABAP User Interfaces with SAP NetWeaver 7.0,Professional,Technology (ABAP),7,Legacy
+P_ADM_SEC_70,SAP Certified Technology Professional - Security with SAP NetWeaver 7.0,Professional,Security & GRC,7,Legacy
+P_BIE_70,SAP Certified Application Professional - BI Enterprise Data Warehousing with SAP NetWeaver 7.0,Professional,Business Intelligence,7,Legacy
+P_BIR_70,SAP Certified Application Professional - BI Reporting and Analysis with SAP NetWeaver 7.0,Professional,Business Intelligence,7,Legacy
+P_BTPA_2408,SAP Certified Professional - Solution Architect - SAP BTP,Professional,BTP Architecture,2408 (Aug 2024),Current
+P_S4FIN_2021,SAP Certified Application Professional - Financials in SAP S/4HANA for SAP ERP Finance Experts (SAP S/4HANA 2021),Professional,S/4HANA Finance,2021,Upskilling
